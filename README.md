@@ -47,7 +47,12 @@
 
 * Reference
   * https://github.com/googleapis/google-cloud-cpp
+  * https://shisho.dev/blog/posts/how-to-use-dockerignore/
+  * https://docs.docker.com/engine/reference/builder/
 
+  * Cloud computing - Fast Continuum - AI Sprint -
+    * https://ai-sprint-project.eu/news-events/workshop/fast-continuum-2023
+    * https://sites.google.com/view/fastcontinuum-2023/home?pli=1 
 ### Powered by
 * [S Labs Solutions, India.](https://slabstech.com)
 
